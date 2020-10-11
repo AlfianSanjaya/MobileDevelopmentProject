@@ -1,3 +1,5 @@
-"# MobileDevelopmentProject" 
+Mobile Development Project: Cafe App (name pending)
 
-Cafe App (name pending)
+Developers: 
+  Alfian Sanjaya
+  Laurens Verstraeten
