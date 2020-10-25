@@ -19,11 +19,6 @@ public class MainActivity extends AppCompatActivity {
     public void LaunchSecondActivity(View view) {
         Intent intent = new Intent(this, Settings.class);
         startActivity(intent);
-        // Get text from EditText as a string
-        //String message = mMessageEditText.getText().toString();
-        // Add that string to the Intent as an extra with the EXTRA_MESSAGE constant as the key and the string as the value
-        //intent.putExtra(EXTRA_MESSAGE, message);
-        //startActivityForResult(intent);
     }
 
     public void LaunchBibActivity(View view) {
